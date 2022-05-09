@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kunal-Vijay&label=Profile%20views&color=0e75b6&style=flat" alt="Kunal-Vijay" /> </p>
 <img align="right" alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" />
-<h3>C++ Programmer | Full Stack Developer | Tech Enthusiast</h3>
+<h3>C++ Programmer | Full Stack Developer | Competitive coder | Tech Enthusiast</h3>
 
 -  I’m currently learning new technologies to improve my skills. 
 -  I love to learn and contribute in any and every possible way
