@@ -1,4 +1,4 @@
-<h1 align="center"> Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<h1 align="center"> Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40">
 ,I'm Kunal Vijay</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kunal-Vijay&label=Profile%20views&color=0e75b6&style=flat" alt="Kunal-Vijay" /> </p>
@@ -31,7 +31,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal-Vijay&theme=dark" alt="Kunal-Vijay" /></p>
 
-## Connect with me:<img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="79px">
+## Connect with me:<img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="79">
 <p align="left">
 <a href="https://www.linkedin.com/in/kunal-vijay-313930209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal-vijay" height="30" width="40" /></a>
 <a href="https://www.instagram.com/kunalvijay1611/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunalvijay1611" height="30" width="40" /></a>
