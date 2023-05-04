@@ -17,8 +17,12 @@
 
 | Project Name | Description |
 | ------------- | ------------- |
-| [My Portfolio](https://github.com/Kunal-Vijay/My-Portfolio)  | Personal Portfolio Website using HTML, CSS and JS|
-| [Magic Notes](https://kunal-vijay.github.io/Magic-Notes/)  | A JS app to take notes  |
+| [My Portfolio](https://kunalvijay016.netlify.app/)  | Personal Portfolio Website using React JS|
+| [iNotebook](https://github.com/Kunal-Vijay/iNotebook)  | A MERN app to take notes  |
+| [ecommerce api](https://github.com/Kunal-Vijay/ecommerce-api)  | E-comm api for shopping site using Node JS  |
+| [URL Shortner](https://github.com/Kunal-Vijay/Url-Shortner)  | Websie to shrink URL using NodeJS and EJS  |
+| [NewsDekho.com](https://github.com/Kunal-Vijay/NewsDekho.com)  | Newsapp created using ReactJS and NewsAPI |
+| [Dark sky](https://github.com/Kunal-Vijay/Dark-Sky---Weather-app)  | Weather app using ReactJS and Tailwind CSS |
 | [GDSC IIITB](https://gdsc-iiit-bhopal.github.io/GDSC-IIITB-Official-Site/)  | GDSC IIITB Website |
 | [TextUtils](https://github.com/Kunal-Vijay/TextUtils)  | A ReactJS text formatter Website  |  
 
