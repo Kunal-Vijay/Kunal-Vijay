@@ -17,6 +17,8 @@
 
 | Project Name | Description |
 | ------------- | ------------- |
+| [Baci Shop](https://github.com/Kunal-Vijay/E-commerce-site) | Ecommerce Website |
+| [Chatmate](https://github.com/Kunal-Vijay/Chatmate) | Chatapp supporting single as well as multiple user chat |
 | [My Portfolio](https://kunalvijay016.netlify.app/)  | Personal Portfolio Website using React JS|
 | [iNotebook](https://github.com/Kunal-Vijay/iNotebook)  | A MERN app to take notes  |
 | [ecommerce api](https://github.com/Kunal-Vijay/ecommerce-api)  | E-comm api for shopping site using Node JS  |
